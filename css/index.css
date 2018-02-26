@@ -1,0 +1,331 @@
+/* line 1, index.sass */
+a {
+  color: inherit; }
+
+/* line 4, index.sass */
+a:hover {
+  color: inherit; }
+
+/* line 7, index.sass */
+p, h2, h3 {
+  padding: 0;
+  margin: 0; }
+
+/* line 11, index.sass */
+.header {
+  height: 30px;
+  background-color: #252525;
+  color: #F5F5F5; }
+
+/* line 16, index.sass */
+.vertical {
+  border-right: 1px solid #F5F5F5;
+  width: 1px;
+  height: 20px;
+  margin-top: 10px; }
+
+/* line 22, index.sass */
+.dropdown-menu {
+  min-width: 20px; }
+
+/* line 25, index.sass */
+.menu {
+  height: 50px;
+  background-color: #FFFFFF;
+  color: #808080;
+  padding: 0 30px;
+  border-bottom: 1px solid #808080; }
+
+/* line 31, index.sass */
+.navLink:hover {
+  color: #FFFFFF;
+  background-color: #808080; }
+
+/* line 35, index.sass */
+.slider-block {
+  background-color: #D3D3D3; }
+
+/* line 38, index.sass */
+.slider-text {
+  margin-top: 30px; }
+
+/* line 41, index.sass */
+.slider-btns-group {
+  margin: auto;
+  text-align: center; }
+
+/* line 45, index.sass */
+.slider-btns {
+  width: 50px; }
+
+/* line 48, index.sass */
+.horisontal {
+  border-bottom: 1px solid #696969; }
+
+/* line 51, index.sass */
+.clider-block {
+  margin: 0 10%; }
+
+/* line 54, index.sass */
+.for-vid-btn {
+  width: 150px;
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid #696969;
+  background-color: #fff;
+  margin: 10px;
+  line-height: 100%; }
+
+/* line 63, index.sass */
+.scrol {
+  margin: 20px 50%;
+  background-color: inherit; }
+
+/* line 67, index.sass */
+#product {
+  background-color: #ffffff;
+  padding-bottom: 30px; }
+
+/* line 72, index.sass */
+.container-header {
+  text-align: center;
+  padding: 40px; }
+
+/* line 76, index.sass */
+.product-description {
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  margin: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+      -ms-flex-align: end;
+          align-items: flex-end; }
+
+/* line 84, index.sass */
+.prod-block-txt {
+  margin: 0 auto;
+  color: #696969; }
+
+/* line 88, index.sass */
+.price-vertikal {
+  width: 1px;
+  height: 5px;
+  border-left: 1px solid #696969;
+  margin: 0 5px; }
+
+/* line 94, index.sass */
+.product1 {
+  background-image: url("../img/1.jpg"); }
+
+/* line 97, index.sass */
+.product2 {
+  background-image: url("../img/2.jpg"); }
+
+/* line 100, index.sass */
+.product3 {
+  background-image: url("../img/3.jpg"); }
+
+/* line 103, index.sass */
+.video-blok-txt {
+  position: absolute;
+  color: #F5F5F5;
+  padding-left: 50px;
+  padding-top: 100px;
+  line-height: 100%; }
+
+/* line 110, index.sass */
+.video-blok {
+  background-color: #252525;
+  padding: 40px 0; }
+
+/* line 113, index.sass */
+.video {
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s; }
+
+/* line 115, index.sass */
+.video:hover {
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+  -webkit-transition-duration: 2s;
+          transition-duration: 2s; }
+
+/* line 119, index.sass */
+.category {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  margin: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+/* line 127, index.sass */
+.category-txt {
+  margin: 0 auto;
+  color: #696969; }
+
+/* line 132, index.sass */
+.category1 {
+  background-image: url("../img/4.jpg"); }
+
+/* line 135, index.sass */
+.category2 {
+  background-image: url("../img/5.jpg"); }
+
+/* line 138, index.sass */
+.category3 {
+  background-image: url("../img/6.jpg"); }
+
+/* line 141, index.sass */
+.category4 {
+  background-image: url("../img/7.jpg"); }
+
+/* line 144, index.sass */
+.img {
+  height: 350px;
+  width: 500px;
+  margin: 0 30px; }
+
+/* line 149, index.sass */
+.calendar-txt {
+  height: 300px;
+  width: 400px;
+  margin: 20px; }
+
+/* line 154, index.sass */
+.calendar-txt-p {
+  margin: 10px 0; }
+
+/* line 156, index.sass */
+.instagram {
+  padding: 0; }
+
+/* line 159, index.sass */
+.link1 {
+  background-image: url("../img/9.jpg");
+  background-size: cover; }
+
+/* line 162, index.sass */
+.link2 {
+  background-image: url("../img/10.jpg");
+  background-size: cover;
+  height: 150px;
+  margin-bottom: 10px; }
+
+/* line 167, index.sass */
+.link3 {
+  background-image: url("../img/11.jpg");
+  background-size: cover;
+  height: 150px; }
+
+/* line 171, index.sass */
+.link4 {
+  background-image: url("../img/12.jpg");
+  background-size: cover; }
+
+/* line 175, index.sass */
+.insta-link {
+  display: block; }
+
+/* line 178, index.sass */
+.insta {
+  height: 310px; }
+
+/* line 181, index.sass */
+.newslater h3, p, button, input {
+  margin-top: 10px; }
+
+/* line 184, index.sass */
+.news-btn {
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 0; }
+
+/* line 189, index.sass */
+.text-uppercase {
+  text-align: center; }
+
+/* line 192, index.sass */
+.footer {
+  background-color: #252525;
+  color: #f5f5f5; }
+
+/* line 197, index.sass */
+.foot-top {
+  border-bottom: 1px solid #F5F5F5;
+  padding: 50px 100px; }
+
+/* line 201, index.sass */
+.foot-inst-icon {
+  display: block;
+  background-image: url("../img/13.jpg");
+  background-size: cover;
+  width: 80px;
+  height: 80px; }
+
+/* line 208, index.sass */
+.table td, .table th {
+  padding: 5px;
+  border-top: 0; }
+
+/* line 212, index.sass */
+.table thead th {
+  border-bottom: 0; }
+
+/* line 215, index.sass */
+.foot-bottom {
+  padding: 20px 50px; }
+
+/* line 218, index.sass */
+.foot-f {
+  display: block;
+  background-image: url("../img/Facebook-48.png");
+  background-size: cover;
+  width: 30px;
+  height: 30px; }
+
+/* line 225, index.sass */
+.foot-t {
+  display: block;
+  background-image: url("../img/Twitter-48.png");
+  background-size: cover;
+  width: 30px;
+  height: 30px; }
+
+/* line 232, index.sass */
+.foot-in {
+  display: block;
+  background-image: url("../img/LinkedIn-48.png");
+  background-size: cover;
+  width: 30px;
+  height: 30px; }
+
+/* line 239, index.sass */
+.soc-link {
+  margin: 5px; }
+
+/* line 242, index.sass */
+.to-top {
+  background-color: #252525;
+  border: 1px solid #f5f5f5;
+  padding: 5px 30px;
+  color: #f5f5f5; }
+
+/* line 248, index.sass */
+.btn-hover:hover {
+  color: #f5f5f5;
+  background-color: #808080; }
+
+/*# sourceMappingURL=index.css.map */
